@@ -1,5 +1,38 @@
 ## Hi there 👋
 
+# 👋 Hi, I'm Sean
+
+🎓 **4th Year BS Information Technology Student**  
+💻 Passionate about Web development and building innovative solutions.  
+
+---
+
+## 📌 About Me  
+I’m an aspiring software developer who loves transforming ideas into functional and visually appealing digital solutions.  
+I enjoy working with modern frameworks, solving real-world problems through code, and continuously learning new technologies.
+
+---
+
+## 🛠 Tech Stack  
+
+**Programming Languages:**  
+`HTML` · `CSS` · `JavaScript` · `C++` · `Java` · `PHP`  
+
+**Database Management:**  
+`MySQL`  
+
+**Frameworks & Tools:**  
+`Node.js` · `Bootstrap`  
+
+---
+
+## 📫 Connect with Me  
+- **Email:** seamdesagun@gmail.com
+- 
+---
+
+⭐ *"Code is like humor. When you have to explain it, it’s bad." — Cory House* 
+
 <!--
 **SeannyBoyyy/SeannyBoyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
