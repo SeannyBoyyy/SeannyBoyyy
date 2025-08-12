@@ -8,7 +8,7 @@
 ---
 
 ## 📌 About Me  
-I’m an aspiring software developer who loves transforming ideas into functional and visually appealing digital solutions.  
+I’m an aspiring web developer who loves transforming ideas into functional and visually appealing digital solutions.  
 I enjoy working with modern frameworks, solving real-world problems through code, and continuously learning new technologies.
 
 ---
@@ -28,7 +28,6 @@ I enjoy working with modern frameworks, solving real-world problems through code
 
 ## 📫 Connect with Me  
 - **Email:** seamdesagun@gmail.com
-- 
 ---
 
 ⭐ *"Code is like humor. When you have to explain it, it’s bad." — Cory House* 
