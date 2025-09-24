@@ -1,11 +1,15 @@
 ## Hi there 👋
 
+<!--
 # 👋 Hi, I'm Sean
+-->
 
+<!--
 🎓 **4th Year BS Information Technology Student**  
 💻 Passionate about Web development and building innovative solutions.  
 
 ---
+-->
 
 ## 📌 About Me  
 I’m an aspiring web developer who loves transforming ideas into functional and visually appealing digital solutions.  
@@ -16,13 +20,13 @@ I enjoy working with modern frameworks, solving real-world problems through code
 ## 🛠 Tech Stack  
 
 **Programming Languages:**  
-`HTML` · `CSS` · `JavaScript` · `C++` · `Java` · `PHP`  
+`HTML` · `CSS` · `JavaScript` · `C++` · `Java` · `PHP`  · `React Native` 
 
 **Database Management:**  
 `MySQL`  
 
 **Frameworks & Tools:**  
-`Node.js` · `Bootstrap`  
+`Node.js` · `Bootstrap`  · `Expo Go` 
 
 ---
 
