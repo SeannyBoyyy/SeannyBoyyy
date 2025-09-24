@@ -34,7 +34,9 @@ I enjoy working with modern frameworks, solving real-world problems through code
 - **Email:** seamdesagun@gmail.com
 ---
 
+<!--
 ⭐ *"Code is like humor. When you have to explain it, it’s bad." — Cory House* 
+-->
 
 <!--
 **SeannyBoyyy/SeannyBoyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
